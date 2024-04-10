@@ -15,10 +15,6 @@ struct A1: AppIntent, CustomIntentMigratedAppIntent {
     static var title: LocalizedStringResource = "A1"
     static var description = IntentDescription("")
 
-    static var parameterSummary: some ParameterSummary {
-        Summary("A1")
-    }
-
     func perform() async throws -> some IntentResult {
         // TODO: Place your refactored intent handler code here.
         return .result()

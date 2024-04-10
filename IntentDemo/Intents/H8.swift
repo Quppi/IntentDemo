@@ -15,10 +15,6 @@ struct H8: AppIntent, CustomIntentMigratedAppIntent {
     static var title: LocalizedStringResource = "H8"
     static var description = IntentDescription("")
 
-    static var parameterSummary: some ParameterSummary {
-        Summary("H8")
-    }
-
     func perform() async throws -> some IntentResult {
         // TODO: Place your refactored intent handler code here.
         return .result()
