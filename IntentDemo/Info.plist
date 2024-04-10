@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>A1Intent</string>
+		<string>B2Intent</string>
+		<string>C3Intent</string>
+		<string>D4Intent</string>
+		<string>E5Intent</string>
+		<string>F6Intent</string>
+		<string>G7Intent</string>
+		<string>H8Intent</string>
+		<string>I9Intent</string>
+		<string>J10Intent</string>
+	</array>
+</dict>
+</plist>

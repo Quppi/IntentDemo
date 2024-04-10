@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E84DF9B42BC6C06700D0B8C7 /* H8.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AA2BC6C06700D0B8C7 /* H8.swift */; };
+		E84DF9B52BC6C06700D0B8C7 /* F6.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AB2BC6C06700D0B8C7 /* F6.swift */; };
+		E84DF9B62BC6C06700D0B8C7 /* J10.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AC2BC6C06700D0B8C7 /* J10.swift */; };
+		E84DF9B72BC6C06700D0B8C7 /* D4.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AD2BC6C06700D0B8C7 /* D4.swift */; };
+		E84DF9B82BC6C06700D0B8C7 /* B2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AE2BC6C06700D0B8C7 /* B2.swift */; };
+		E84DF9B92BC6C06700D0B8C7 /* C3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9AF2BC6C06700D0B8C7 /* C3.swift */; };
+		E84DF9BA2BC6C06700D0B8C7 /* E5.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9B02BC6C06700D0B8C7 /* E5.swift */; };
+		E84DF9BB2BC6C06700D0B8C7 /* A1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9B12BC6C06700D0B8C7 /* A1.swift */; };
+		E84DF9BC2BC6C06700D0B8C7 /* I9.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9B22BC6C06700D0B8C7 /* I9.swift */; };
+		E84DF9BD2BC6C06700D0B8C7 /* G7.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84DF9B32BC6C06700D0B8C7 /* G7.swift */; };
 		E896EA182BC6BA7100081B36 /* IntentDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896EA172BC6BA7100081B36 /* IntentDemoApp.swift */; };
 		E896EA1A2BC6BA7100081B36 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896EA192BC6BA7100081B36 /* ContentView.swift */; };
 		E896EA1C2BC6BA7300081B36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E896EA1B2BC6BA7300081B36 /* Assets.xcassets */; };
 		E896EA1F2BC6BA7300081B36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E896EA1E2BC6BA7300081B36 /* Preview Assets.xcassets */; };
+		E896EA262BC6BA9300081B36 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = E896EA252BC6BA9300081B36 /* Intents.intentdefinition */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E84DF9AA2BC6C06700D0B8C7 /* H8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H8.swift; sourceTree = "<group>"; };
+		E84DF9AB2BC6C06700D0B8C7 /* F6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = F6.swift; sourceTree = "<group>"; };
+		E84DF9AC2BC6C06700D0B8C7 /* J10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = J10.swift; sourceTree = "<group>"; };
+		E84DF9AD2BC6C06700D0B8C7 /* D4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D4.swift; sourceTree = "<group>"; };
+		E84DF9AE2BC6C06700D0B8C7 /* B2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.swift; sourceTree = "<group>"; };
+		E84DF9AF2BC6C06700D0B8C7 /* C3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C3.swift; sourceTree = "<group>"; };
+		E84DF9B02BC6C06700D0B8C7 /* E5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = E5.swift; sourceTree = "<group>"; };
+		E84DF9B12BC6C06700D0B8C7 /* A1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A1.swift; sourceTree = "<group>"; };
+		E84DF9B22BC6C06700D0B8C7 /* I9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I9.swift; sourceTree = "<group>"; };
+		E84DF9B32BC6C06700D0B8C7 /* G7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = G7.swift; sourceTree = "<group>"; };
 		E896EA142BC6BA7100081B36 /* IntentDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntentDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E896EA172BC6BA7100081B36 /* IntentDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntentDemoApp.swift; sourceTree = "<group>"; };
 		E896EA192BC6BA7100081B36 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E896EA1B2BC6BA7300081B36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E896EA1E2BC6BA7300081B36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E896EA252BC6BA9300081B36 /* Intents.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; path = Intents.intentdefinition; sourceTree = "<group>"; };
+		E896EA272BC6BB3D00081B36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +55,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E84DF9BE2BC6C07400D0B8C7 /* Intents */ = {
+			isa = PBXGroup;
+			children = (
+				E84DF9B12BC6C06700D0B8C7 /* A1.swift */,
+				E84DF9AE2BC6C06700D0B8C7 /* B2.swift */,
+				E84DF9AF2BC6C06700D0B8C7 /* C3.swift */,
+				E84DF9AD2BC6C06700D0B8C7 /* D4.swift */,
+				E84DF9B02BC6C06700D0B8C7 /* E5.swift */,
+				E84DF9AB2BC6C06700D0B8C7 /* F6.swift */,
+				E84DF9B32BC6C06700D0B8C7 /* G7.swift */,
+				E84DF9AA2BC6C06700D0B8C7 /* H8.swift */,
+				E84DF9B22BC6C06700D0B8C7 /* I9.swift */,
+				E84DF9AC2BC6C06700D0B8C7 /* J10.swift */,
+			);
+			path = Intents;
+			sourceTree = "<group>";
+		};
 		E896EA0B2BC6BA7100081B36 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +91,11 @@
 		E896EA162BC6BA7100081B36 /* IntentDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E896EA272BC6BB3D00081B36 /* Info.plist */,
 				E896EA172BC6BA7100081B36 /* IntentDemoApp.swift */,
 				E896EA192BC6BA7100081B36 /* ContentView.swift */,
+				E896EA252BC6BA9300081B36 /* Intents.intentdefinition */,
+				E84DF9BE2BC6C07400D0B8C7 /* Intents */,
 				E896EA1B2BC6BA7300081B36 /* Assets.xcassets */,
 				E896EA1D2BC6BA7300081B36 /* Preview Content */,
 			);
@@ -137,6 +180,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E84DF9B42BC6C06700D0B8C7 /* H8.swift in Sources */,
+				E84DF9B52BC6C06700D0B8C7 /* F6.swift in Sources */,
+				E84DF9B62BC6C06700D0B8C7 /* J10.swift in Sources */,
+				E84DF9B72BC6C06700D0B8C7 /* D4.swift in Sources */,
+				E84DF9B82BC6C06700D0B8C7 /* B2.swift in Sources */,
+				E84DF9B92BC6C06700D0B8C7 /* C3.swift in Sources */,
+				E84DF9BA2BC6C06700D0B8C7 /* E5.swift in Sources */,
+				E84DF9BB2BC6C06700D0B8C7 /* A1.swift in Sources */,
+				E84DF9BC2BC6C06700D0B8C7 /* I9.swift in Sources */,
+				E84DF9BD2BC6C06700D0B8C7 /* G7.swift in Sources */,
+				E896EA262BC6BA9300081B36 /* Intents.intentdefinition in Sources */,
 				E896EA1A2BC6BA7100081B36 /* ContentView.swift in Sources */,
 				E896EA182BC6BA7100081B36 /* IntentDemoApp.swift in Sources */,
 			);
@@ -275,11 +329,13 @@
 				DEVELOPMENT_TEAM = 25FBHRGFWD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = IntentDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +343,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = meyer.IntentDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -304,11 +363,13 @@
 				DEVELOPMENT_TEAM = 25FBHRGFWD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = IntentDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,9 +377,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = meyer.IntentDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
